@@ -4,7 +4,7 @@
 
 <div id="wrapper">
 	<header>
-		<h1>헤딩</h1>
+		<h1>방탈출 빙고</h1>
 	</header>
 	<main><slot /></main>
 	<footer>
