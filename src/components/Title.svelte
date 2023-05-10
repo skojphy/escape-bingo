@@ -8,7 +8,7 @@
 
 <style>
 	.title {
-		width: 600px;
+		width: 100%;
 		padding: 5px;
 	}
 </style>

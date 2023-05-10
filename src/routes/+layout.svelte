@@ -3,7 +3,9 @@
 </script>
 
 <div id="wrapper">
-	<header><h1>헤딩</h1></header>
+	<header>
+		<h1>헤딩</h1>
+	</header>
 	<main><slot /></main>
 	<footer>
 		<nav>
@@ -38,7 +40,7 @@
 	}
 
 	#wrapper {
-		min-height: 100vh;
+		height: 100vh;
 		position: relative;
 		width: 100%;
 	}
@@ -59,6 +61,7 @@
 		color: white;
 		text-align: center;
 		width: 100%;
+		min-width: 300px;
 		position: absolute;
 		box-sizing: border-box;
 	}
