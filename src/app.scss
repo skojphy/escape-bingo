@@ -1,0 +1,8 @@
+/* Write your global styles here, in SCSS syntax. */
+@import '$styles/reset';
+@import '$styles/font';
+
+:global(*) {
+	font-family: 'TAEBAEKmilkyway', sans-serif;
+	background-color: blue;
+}
