@@ -1,6 +1,6 @@
 <script>
 	import Square from './Square.svelte';
-	import bingo from '../data/new.json';
+	import bingo from '../data/new_2023.json';
 	import Title from './Title.svelte';
 </script>
 

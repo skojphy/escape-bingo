@@ -9,14 +9,14 @@
 		{
 			"name": "미씽 삭스 미스터리",
 			"shop": "오아시스뮤지엄",
-			"branch": "어디어디"
+			"branch": ""
 		},
 		{ "name": "디스트로이드", "shop": "셜록홈즈", "branch": "서현점" },
 		{ "name": "사랑...하는...감?", "shop": "제로월드", "branch": "홍대점" },
 		{ "name": "갱생", "shop": "마스터키", "branch": "플레이포인트랩강남점" },
 		{ "name": "금GO", "shop": "꿈소풍", "branch": "안산2호점" },
-		{ "name": "TITAN : 전쟁의경계", "shop": "상상의문", "branch": "홍대점" },
-		{ "name": "Din't", "shop": "상상의문", "branch": "홍대점" },
+		{ "name": "TITAN : 전쟁의 경계", "shop": "상상의문", "branch": "홍대점" },
+		{ "name": "Didn't", "shop": "상상의문", "branch": "홍대점" },
 		{ "name": "선택받은 자", "shop": "머더파커", "branch": "홍대와우점" },
 		{ "name": "홈그라운드", "shop": "머더파커", "branch": "홍대와우점" },
 		{ "name": "하", "shop": "머더파커", "branch": "홍대와우점" },
@@ -24,7 +24,7 @@
 		{ "name": "시크릿 왕국의 스캔들", "shop": "상상의문", "branch": "광주점" },
 		{ "name": "리허설", "shop": "마스터키", "branch": "플레이포인트랩강남점" },
 		{
-			"name": "섬 : 잊혀진 이야기",
+			"name": "섬: 잊혀진 이야기",
 			"shop": "황금열쇠",
 			"branch": "강남점(타임스퀘어)"
 		},
@@ -36,7 +36,7 @@
 		{ "name": "Dolphin", "shop": "드림이스케이프", "branch": "" },
 		{ "name": "V.E.T", "shop": "드림이스케이프", "branch": "" },
 		{ "name": "사자의 서", "shop": "판타스트릭", "branch": "2호점" },
-		{ "name": "깜방탈출 : WAY OUT", "shop": "제로월드", "branch": "홍대점" },
+		{ "name": "깜방탈출: WAY OUT", "shop": "제로월드", "branch": "홍대점" },
 		{
 			"name": "FILM BY STEVE",
 			"shop": "키이스케이프",
